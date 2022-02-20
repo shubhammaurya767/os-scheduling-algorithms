@@ -1,3 +1,4 @@
+//Author: Shubham Maurya https://github.com/shubhammaurya767
 #include<bits/stdc++.h>
 using namespace std;
 bool compare(const pair<int, pair<int,int>>&i, const pair<int, pair<int,int>>&j) 
