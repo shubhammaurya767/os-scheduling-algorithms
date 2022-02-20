@@ -68,7 +68,7 @@ int *calc_wait(const vector<pair<int,pair<int,int>>> &v, const int *tt)
 }
 
 int main(){
-    cout<<"\n****SHORTEST JOB FIRST - NON PREEMPTIVE****\n";
+    cout<<"\n****SHORTEST JOB FIRST - PREEMPTIVE****\n";
 	int n;
     cout<<"Enter no. of processes: ";
     cin>>n;
